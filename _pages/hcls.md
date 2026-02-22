@@ -1,6 +1,6 @@
 ---
 layout: page
 title: HCLS - APAC
-permalink: /hclsapac
+permalink: /hcls/
 ---
 Under construction
