@@ -4,15 +4,11 @@ title: Quantum Computing Applications & Theory
 permalink: /
 ---
 
-We are a theoretical quantum computing research group at the University of Queensland in Brisbane, Australia. Our work focusses on clarifying regimes we expect quantum computing to be useful.
-
-<div style="text-align: center;">
-  <img src="images/UQ_St_Lucia_Parnell.jpg" alt="Centered image">
-</div>
+We are a theoretical quantum computing research group at the University of Queensland in Brisbane, Australia.
 
 ![image](images/UQ_St_Lucia_Parnell.jpg)
 
-![image](images/UQ_St_Lucia_Parnell.jpg){:class="img-responsive" width="75%"}
+Our work focusses on clarifying regimes we expect quantum computing to be useful.
 
 Demonstrating scalable applications for near-term and nascent fault-tolerant quantum devices is of critical importance to justify continued investment into quantum hardware. Our work explores applications such as quantum simulations for molecular interactions in chemistry; preparing resource states for fault-tolerant quantum computing, and quantum machine learning.
 
