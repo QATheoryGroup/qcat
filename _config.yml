@@ -26,7 +26,7 @@ url: "qatheorygroup.github.io" # the base hostname & protocol for your site, e.g
 github_username:  qatheorygroup
 
 # Build settings
-theme: minima
+theme: slate
 plugins:
   - jekyll-feed 
 # theme: minima
