@@ -1,17 +1,15 @@
 <div markdown="0" id="carouselExample" class="carousel slide" data-bs-ride="carousel">
-  <div class="carousel-inner">
-    {% raw %}
-    {% for image in include.images %}
-    <div class="carousel-item {% if forloop.first %}active{% endif %}">
-      <img src="{{ image | relative_url }}" class="d-block w-100" alt="Slide">
-    </div>
-    {% endfor %}
-    {% endraw %}
-  </div>
-  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-  </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-  </button>
+ <div class="carousel-inner">
+   {% for image in include.images %}
+   <div class="carousel-item {% if forloop.first %}active{% endif %}">
+     <img src="{{ image | relative_url }}" class="d-block w-100" alt="Slide">
+   </div>
+   {% endfor %}
+ </div>
+ <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+ </button>
+ <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+   <span class="carousel-control-next-icon" aria-hidden="true"></span>
+ </button>
 </div>
