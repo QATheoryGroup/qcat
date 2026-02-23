@@ -37,6 +37,7 @@ plugins:
 # Include from processing
 include:
   - _pages
+  - images
 
 defaults:
   - scope:
