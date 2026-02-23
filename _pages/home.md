@@ -4,11 +4,22 @@ title: Quantum Computing Applications & Theory
 sitemap: false
 permalink: /
 carousels:
-  - images: 
-    - image: /images/carousel/1.PNG
-    - image: /images/carousel/2.PNG
-    - image: /images/carousel/1.PNG
-    - image: /images/carousel/2.PNG
+  - images:
+      - image: /images/carousel/1.PNG
+        alt: Quantum circuit visualization
+        caption:
+          title: "Quantum Circuits"
+          text: "Exploring circuit-level quantum computation."
+      - image: /images/carousel/2.PNG
+        alt: Quantum error correction diagram
+        caption:
+          title: "Error Correction"
+          text: "Research on robust fault-tolerant quantum computing."
+      - image: /images/carousel/3.PNG
+        alt: Quantum chemistry simulation
+        caption:
+          title: "Quantum Chemistry"
+          text: "Simulating molecules on quantum devices."
 ---
 
 We are a theoretical quantum computing research group at the University of Queensland in Brisbane, Australia. 
