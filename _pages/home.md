@@ -15,7 +15,7 @@ carousels:
         caption:
           title: "Error Correction"
           text: "Research on robust fault-tolerant quantum computing."
-      - image: /images/carousel/3.PNG
+      - image: /images/carousel/3.jpeg
         alt: Quantum chemistry simulation
         caption:
           title: "Quantum Chemistry"
