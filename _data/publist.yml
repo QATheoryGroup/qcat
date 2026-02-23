@@ -1,0 +1,17 @@
+- title: "Exploiting biased noise in variational quantum models"
+  image: images/papers/2025_vanRossum.png
+  description: We find that symmetrising noise actually degrades performance in the variational quantum algorithms whereas preserving biased or non-unital noise can help classical optimisers find better solutions.
+  authors: Connor van Rossum, Sally Shrapnel, and Riddhi Gupta
+  link:
+    url: https://arxiv.org/pdf/2510.24050
+    display: arXiv (2025)
+  highlight: 1
+
+- title: "Exploiting biased noise in variational quantum models"
+  image: images/papers/2025_Gupta_Characterizing.png
+  description: We find that the spectrum of channels representing failures in error mitigation or error correction, on average, obey matrix Chernoff inequalities. These insights can be used to define metrics to quantify the degree to which error mitigation and error correction methods fail. 
+  authors: Characterizing noisy quantum computation with imperfectly addressed errors
+  link:
+    url: https://arxiv.org/pdf/2508.03261
+    display: arXiv (2025)
+  highlight: 1
