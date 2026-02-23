@@ -26,7 +26,6 @@ We are a theoretical quantum computing research group at the University of Queen
 
 Led by [Dr. Riddhi Gupta](https://smp.uq.edu.au/profile/16165/riddhi-gupta) and [Associate Professor Sally Shrapnel](https://about.uq.edu.au/experts/16630), our work focusses on clarifying regimes we expect quantum computing to be useful.
 
-![image](images/home/UQ_St_Lucia_Parnell.jpg)
 
 <div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
