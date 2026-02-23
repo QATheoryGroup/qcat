@@ -1,10 +1,12 @@
 <div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
+    {% raw %}
     {% for image in include.images %}
     <div class="carousel-item {% if forloop.first %}active{% endif %}">
       <img src="{{ image | relative_url }}" class="d-block w-100" alt="Slide">
     </div>
     {% endfor %}
+    {% raw %}
   </div>
   <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
     <span class="carousel-control-prev-icon" aria-hidden="true"></span>
