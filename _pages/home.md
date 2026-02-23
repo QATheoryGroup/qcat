@@ -3,32 +3,13 @@ layout: page
 title: Quantum Computing Applications & Theory
 sitemap: false
 permalink: /
-carousels:
-  - images:
-      - image: /images/carousel/1.PNG
-        alt: Quantum circuit visualization
-        caption:
-          title: "Quantum Circuits"
-          text: "Exploring circuit-level quantum computation."
-      - image: /images/carousel/2.PNG
-        alt: Quantum error correction diagram
-        caption:
-          title: "Error Correction"
-          text: "Research on robust fault-tolerant quantum computing."
-      - image: /images/carousel/3.jpeg
-        alt: Quantum chemistry simulation
-        caption:
-          title: "Quantum Chemistry"
-          text: "Simulating molecules on quantum devices."
 ---
 
 We are a theoretical quantum computing research group at the University of Queensland in Brisbane, Australia. 
 
 Led by [Dr. Riddhi Gupta](https://smp.uq.edu.au/profile/16165/riddhi-gupta) and [Associate Professor Sally Shrapnel](https://about.uq.edu.au/experts/16630), our work focusses on clarifying regimes we expect quantum computing to be useful.
 
-
-{% include carousel.html %}
-
+![image](images/home/UQ_St_Lucia_Parnell.jpg)
 
 Our work explores potential applications for quantum computing in the nascent fault-tolerant regime. As examples, these potential applications include quantum simulations for molecular interactions in chemistry; preparing resource states for fault-tolerant quantum computing, and quantum machine learning.
 
