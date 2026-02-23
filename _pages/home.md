@@ -16,7 +16,7 @@ Mitigating the impact of noise on quantum computers remains a persistent challen
 
 We aim to bridge the gap between fundamental quantum theory and practical quantum technologies. Whether you are a student, researcher, or collaborator, we invite you to explore our work and **[talk to us](riddhi.gupta@uq.edu.au)**.
 
-<figure class="fifth">
-  <img src="images/UQ-300x300.png" style="width: 130px">
-  <img src="images/QUBIC-Logo.svg" style="width: 130px">
+<figure>
+  <img src="./images/UQ-300x300.png" style="width: 130px">
+  <img src="./images/QUBIC-Logo.svg" style="width: 130px">
 </figure>
