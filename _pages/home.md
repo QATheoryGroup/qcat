@@ -3,7 +3,7 @@ layout: page
 title: Quantum Computing Applications & Theory
 sitemap: false
 permalink: /
-carousels:
+ccarousels:
   - images: 
     - image: /images/carousel/1.PNG
     - image: /images/carousel/2.PNG
