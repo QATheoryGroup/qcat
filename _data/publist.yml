@@ -1,7 +1,7 @@
 - title: "Exploiting biased noise in variational quantum models"
   image: images/papers/2025_vanRossum.png
   description: We find that symmetrising noise actually degrades performance in the variational quantum algorithms whereas preserving biased or non-unital noise can help classical optimisers find better solutions.
-  authors: Connor van Rossum, Sally Shrapnel, and Riddhi Gupta
+  authors: Connor van Rossum, Sally Shrapnel, and Riddhi S. Gupta
   link:
     url: https://arxiv.org/pdf/2510.24050
     display: arXiv (2025)
@@ -14,4 +14,22 @@
   link:
     url: https://arxiv.org/pdf/2508.03261
     display: arXiv (2025)
+  highlight: 1
+
+- title: "A systematic review of quantum machine learning for digital health"
+  image: images/papers/2025_Gupta_Digital.png
+  description: We conduct a systematic review to assess whether quantum machine learning (QML) algorithms outperform existing classical methods for clinical decisioning or health service delivery.
+  authors:     Riddhi S. Gupta, Carolyn E. Wood, Teyl Engstrom, Jason D. Pole & Sally Shrapnel 
+  link:
+    url: https://www.nature.com/articles/s41746-025-01597-z
+    display: npj Digital Medicine (2025)
+  highlight: 1
+
+- title: "Probabilistic error cancellation for dynamic quantum circuits"
+  image: images/papers/2025_Gupta_Digital.png
+  description: We extend the application of PEC from unitary-only circuits to dynamic circuits with measurement-based operations, such as mid-circuit measurements and classically-controlled (feedforward) Clifford operations.
+  authors:     Probabilistic error cancellation for dynamic quantum circuits
+  link:
+    url: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.109.062617
+    display: Physical Review A (2024)
   highlight: 1
