@@ -1,30 +1,17 @@
-{% assign number = include.number | minus: 1 %}
-{% assign carousel = page.carousels[number] %}
 
-
-  <!-- Slides -->
+<div id="carouselExample" class="carousel slide" data-bs-ride="carousel">
   <div class="carousel-inner">
-    {% for img in carousel.images %}
-      <div class="carousel-item {% if forloop.first %}active{% endif %}"
-           {% if include.duration %}data-bs-interval="{{ include.duration | times: 1000 }}"{% endif %}>
-        <img src="https://raw.githubusercontent.com/QATheoryGroup/qcat/main{{ img.image }}" class="d-block w-100" alt="{{ img.alt | default: 'Slide ' | append: forloop.index }}">
-        {% if img.caption %}
-          <div class="carousel-caption d-none d-md-block">
-            {% if img.caption.title %}<h5>{{ img.caption.title }}</h5>{% endif %}
-            {% if img.caption.text %}<p>{{ img.caption.text }}</p>{% endif %}
-          </div>
-        {% endif %}
-      </div>
-    {% endfor %}
+    <div class="carousel-item active">
+      <img src="https://raw.githubusercontent.com/QATheoryGroup/qcat/main/images/carousel/1.PNG" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="https://raw.githubusercontent.com/QATheoryGroup/qcat/main/images/carousel/1.PNG" class="d-block w-100" alt="...">
+    </div>
   </div>
-
-  <!-- Controls -->
-  <button class="carousel-control-prev" type="button" data-bs-target="#carousel{{ number }}" data-bs-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Previous</span>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExample" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
   </button>
-  <button class="carousel-control-next" type="button" data-bs-target="#carousel{{ number }}" data-bs-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="visually-hidden">Next</span>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExample" data-bs-slide="next">
+    <span class="carousel-control-next-icon"></span>
   </button>
 </div>
