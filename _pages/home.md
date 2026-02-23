@@ -5,8 +5,8 @@ sitemap: false
 permalink: /
 carousel_images:
   - images/carousel/1.PNG
-  - images/carousel/1.PNG
-  - images/carousel/1.PNG
+  - images/carousel/2.PNG
+  - images/carousel/3.jpeg
 ---
 
 We are a theoretical quantum computing research group at the University of Queensland in Brisbane, Australia. 
