@@ -19,7 +19,7 @@
     {% for img in carousel.images %}
       <div class="carousel-item {% if forloop.first %}active{% endif %}"
            {% if include.duration %}data-bs-interval="{{ include.duration | times: 1000 }}"{% endif %}>
-        <img src="https://raw.githubusercontent.com/QATheoryGroup/qcat/main/{{ img.image }}" class="d-block w-100" alt="{{ img.alt | default: 'Slide ' | append: forloop.index }}">
+        <img src="https://raw.githubusercontent.com/QATheoryGroup/qcat/main{{ img.image }}" class="d-block w-100" alt="{{ img.alt | default: 'Slide ' | append: forloop.index }}">
         {% if img.caption %}
           <div class="carousel-caption d-none d-md-block">
             {% if img.caption.title %}<h5>{{ img.caption.title }}</h5>{% endif %}
