@@ -17,8 +17,6 @@ Led by [Dr. Riddhi Gupta](https://smp.uq.edu.au/profile/16165/riddhi-gupta) and 
 
 ![image](images/home/UQ_St_Lucia_Parnell.jpg)
 
-{% include carousel.html %}
-
 Our work explores potential applications for quantum computing in the nascent fault-tolerant regime. As examples, these potential applications include quantum simulations for molecular interactions in chemistry; preparing resource states for fault-tolerant quantum computing, and quantum machine learning.
 
 Mitigating the impact of noise on quantum computers remains a persistent challenge. 
