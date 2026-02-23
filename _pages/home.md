@@ -4,11 +4,11 @@ title: Quantum Computing Applications & Theory
 sitemap: false
 permalink: /
 carousel_images:
-  - images/home/UQ_St_Lucia_Parnell.jpg
-  - images/carousel/3.jpeg
-  - images/papers/2024_Gupta_MagicState.png
-  - images/papers/2024_Gupta_MPEC.png
-  - images/papers/2025_vanRossum.png
+  - images/carousel/1.svg
+  - images/carousel/2.svg
+  - images/carousel/3.svg
+  - images/carousel/4.svg
+  - images/carousel/5.svg
 ---
 {::options syntax_highlighter="nil" /}
 
