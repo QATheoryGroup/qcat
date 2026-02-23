@@ -21,6 +21,8 @@ Our team works closely with industry partners, such as IBM Quantum, to develop a
 
 We aim to bridge the gap between fundamental quantum theory and practical quantum technologies. Whether you are a student, researcher, or collaborator, we invite you to [explore our work](https://qatheorygroup.github.io/qcat/research) or [talk to us](riddhi.gupta@uq.edu.au).
 
+We are hiring Honours, Masters, Ph.D students and postdoctoral candidates! 
+
 <figure>
   <img src="https://raw.githubusercontent.com/QATheoryGroup/qcat/main/images/logos/UQ-300x300.png" style="width: 130px">
   <img src="https://raw.githubusercontent.com/QATheoryGroup/qcat/main/images/logos/QUBIC-Logo.svg" style="width: 130px">
