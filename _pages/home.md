@@ -9,16 +9,13 @@ We are a theoretical quantum computing research group at the University of Queen
 
 Our work focusses on clarifying regimes we expect quantum computing to be useful.
 
-![image](images/UQ_St_Lucia_Parnell.jpg)
-
-
-{% include carousel.html height="50" unit="%" duration="7" images=gallery %}
+![image](images/home/UQ_St_Lucia_Parnell.jpg)
 
 Demonstrating scalable applications for near-term and nascent fault-tolerant quantum devices is of critical importance to justify continued investment into quantum hardware. Our work explores applications such as quantum simulations for molecular interactions in chemistry; preparing resource states for fault-tolerant quantum computing, and quantum machine learning.
 
 Mitigating the impact of noise on quantum computers remains a persistent challenge. Our team works closely with industry partners, such as IBM Quantum, to develop application-specific protocols in quantum noise characterization and control, quantum error mitigation and quantum error correction. 
 
-We aim to bridge the gap between fundamental quantum theory and practical quantum technologies. Whether you are a student, researcher, or collaborator, we invite you to explore our work and **[talk to us](riddhi.gupta@uq.edu.au)**.
+We aim to bridge the gap between fundamental quantum theory and practical quantum technologies. Whether you are a student, researcher, or collaborator, we invite you to **[explore our work](/research) and **[talk to us](riddhi.gupta@uq.edu.au)**.
 
 <figure>
   <img src="https://raw.githubusercontent.com/QATheoryGroup/qcat/main/images/logos/UQ-300x300.png" style="width: 130px">
