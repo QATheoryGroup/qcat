@@ -15,7 +15,7 @@ Demonstrating scalable applications for near-term and nascent fault-tolerant qua
 
 Mitigating the impact of noise on quantum computers remains a persistent challenge. Our team works closely with industry partners, such as IBM Quantum, to develop application-specific protocols in quantum noise characterization and control, quantum error mitigation and quantum error correction. 
 
-We aim to bridge the gap between fundamental quantum theory and practical quantum technologies. Whether you are a student, researcher, or collaborator, we invite you to **[explore our work](/research) and **[talk to us](riddhi.gupta@uq.edu.au)**.
+We aim to bridge the gap between fundamental quantum theory and practical quantum technologies. Whether you are a student, researcher, or collaborator, we invite you to **[explore our work](https://qatheorygroup.github.io/research) and **[talk to us](riddhi.gupta@uq.edu.au)**.
 
 <figure>
   <img src="https://raw.githubusercontent.com/QATheoryGroup/qcat/main/images/logos/UQ-300x300.png" style="width: 130px">
