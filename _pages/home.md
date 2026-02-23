@@ -4,9 +4,9 @@ title: Quantum Computing Applications & Theory
 sitemap: false
 permalink: /
 carousel_images:
-  - images/carousel/1.PNG
-  - images/carousel/2.PNG
+  - images/home/UQ_St_Lucia_Parnell.jpg
   - images/carousel/3.jpeg
+  - images/papers/2025_vanRossum.png
 ---
 {::options syntax_highlighter="nil" /}
 
@@ -14,11 +14,9 @@ We are a theoretical quantum computing research group at the University of Queen
 
 Led by [Dr. Riddhi Gupta](https://smp.uq.edu.au/profile/16165/riddhi-gupta) and [Associate Professor Sally Shrapnel](https://about.uq.edu.au/experts/16630), our work focusses on clarifying regimes we expect quantum computing to be useful.
 
-![image](images/home/UQ_St_Lucia_Parnell.jpg)
+{% include carousel.html images=page.carousel_images %}
 
 Our work explores potential applications for quantum computing in the nascent fault-tolerant regime. As examples, these potential applications include quantum simulations for molecular interactions in chemistry; preparing resource states for fault-tolerant quantum computing, and quantum machine learning.
-
-{% include carousel.html images=page.carousel_images %}
 
 Mitigating the impact of noise on quantum computers remains a persistent challenge. 
 
