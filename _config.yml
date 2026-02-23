@@ -38,6 +38,11 @@ plugins:
 include:
   - _pages
 
+defaults:
+  - scope:
+      path: "_data/images"
+    values:
+      image: true
 # Markdown Processing
 kramdown:
   parse_block_html: true # default for kramdown is false. This will enable using Markdown links
