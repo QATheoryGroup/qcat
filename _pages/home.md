@@ -5,9 +5,9 @@ permalink: /
 # gallery: [ /images/logos/UQ-300x300.png, /images/logos/UQ-300x300.png ]
 ---
 
-We are a theoretical quantum computing research group at the University of Queensland in Brisbane, Australia.
+We are a theoretical quantum computing research group at the University of Queensland in Brisbane, Australia. 
 
-Our work focusses on clarifying regimes we expect quantum computing to be useful.
+Led by [Dr. Riddhi Gupta](https://smp.uq.edu.au/profile/16165/riddhi-gupta) and [Associate Professor Sally Shrapnel](https://about.uq.edu.au/experts/16630), our work focusses on clarifying regimes we expect quantum computing to be useful. 
 
 ![image](images/home/UQ_St_Lucia_Parnell.jpg)
 
