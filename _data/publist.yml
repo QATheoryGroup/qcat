@@ -28,7 +28,7 @@
 - title: "Probabilistic error cancellation for dynamic quantum circuits"
   image: images/papers/2024_Gupta_MPEC.png
   description: We extend the application of PEC from unitary-only circuits to dynamic circuits with measurement-based operations, such as mid-circuit measurements and classically-controlled (feedforward) Clifford operations.
-  authors:     Probabilistic error cancellation for dynamic quantum circuits
+  authors: Riddhi S. Gupta, Ewout van den Berg, Maika Takita, Diego Ristè, Kristan Temme, and Abhinav Kandala
   link:
     url: https://journals.aps.org/pra/abstract/10.1103/PhysRevA.109.062617
     display: Physical Review A (2024)
