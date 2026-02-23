@@ -26,22 +26,22 @@ Our work focusses on clarifying regimes we expect quantum computing to be useful
     <!-- Items -->
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="https://raw.githubusercontent.com/QATheoryGroup/qcat/main/images/UQ-300x300.png"  alt="Slide 1" />
+            <img src="https://raw.githubusercontent.com/QATheoryGroup/qcat/main/images/logos/UQ-300x300.png"  alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="https://raw.githubusercontent.com/QATheoryGroup/qcat/main/images/UQ-300x300.png"  alt="Slide 2" />
+            <img src="https://raw.githubusercontent.com/QATheoryGroup/qcat/main/images/logos/UQ-300x300.png"  alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="https://raw.githubusercontent.com/QATheoryGroup/qcat/main/images/UQ-300x300.png"  alt="Slide 3" />
+            <img src="https://raw.githubusercontent.com/QATheoryGroup/qcat/main/images/logos/UQ-300x300.png"  alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="https://raw.githubusercontent.com/QATheoryGroup/qcat/main/images/UQ-300x300.png"  alt="Slide 4" />
+            <img src="https://raw.githubusercontent.com/QATheoryGroup/qcat/main/images/logos/UQ-300x300.png"  alt="Slide 4" />
         </div>
         <div class="item">
-            <img src="https://raw.githubusercontent.com/QATheoryGroup/qcat/main/images/UQ-300x300.png"  alt="Slide 5" />
+            <img src="https://raw.githubusercontent.com/QATheoryGroup/qcat/main/images/logos/UQ-300x300.png"  alt="Slide 5" />
         </div>       
          <div class="item">
-            <img src="https://raw.githubusercontent.com/QATheoryGroup/qcat/main/images/UQ-300x300.png"  alt="Slide 6" />
+            <img src="https://raw.githubusercontent.com/QATheoryGroup/qcat/main/images/logos/UQ-300x300.png"  alt="Slide 6" />
         </div>
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
@@ -61,6 +61,6 @@ Mitigating the impact of noise on quantum computers remains a persistent challen
 We aim to bridge the gap between fundamental quantum theory and practical quantum technologies. Whether you are a student, researcher, or collaborator, we invite you to explore our work and **[talk to us](riddhi.gupta@uq.edu.au)**.
 
 <figure>
-  <img src="https://raw.githubusercontent.com/QATheoryGroup/qcat/main/images/UQ-300x300.png" style="width: 130px">
-  <img src="../images/QUBIC-Logo.svg" style="width: 130px">
+  <img src="https://raw.githubusercontent.com/QATheoryGroup/qcat/main/images/logos/UQ-300x300.png" style="width: 130px">
+  <img src="https://raw.githubusercontent.com/QATheoryGroup/qcat/main/images/logos/QUBIC-Logo.svg" style="width: 130px">
 </figure>
