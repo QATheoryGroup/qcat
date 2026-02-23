@@ -11,17 +11,15 @@ Led by [Dr. Riddhi Gupta](https://smp.uq.edu.au/profile/16165/riddhi-gupta) and 
 
 ![image](images/home/UQ_St_Lucia_Parnell.jpg)
 
-Demonstrating scalable applications for near-term and nascent fault-tolerant quantum devices is of critical importance to justify continued investment into quantum hardware. 
-
-Our work explores applications such as quantum simulations for molecular interactions in chemistry; preparing resource states for fault-tolerant quantum computing, and quantum machine learning.
+Our work explores potential applications for quantum computing in the nascent fault-tolerant regime. As examples, these potential applications include quantum simulations for molecular interactions in chemistry; preparing resource states for fault-tolerant quantum computing, and quantum machine learning.
 
 Mitigating the impact of noise on quantum computers remains a persistent challenge. 
 
-Our team works closely with industry partners, such as IBM Quantum, to develop application-specific protocols in quantum noise characterization and control, quantum error mitigation and quantum error correction. 
+Our team works closely with industry partners to develop application-specific protocols in quantum noise characterization and control, quantum error mitigation and quantum error correction. 
 
 We aim to bridge the gap between fundamental quantum theory and practical quantum technologies. Whether you are a student, researcher, or collaborator, we invite you to [explore our work](https://qatheorygroup.github.io/qcat/research) or [talk to us](riddhi.gupta@uq.edu.au).
 
-We are currently hiring at all levels: students (Honours, Masters, Ph.D) and postdoctoral candidates.
+We are currently hiring at all levels: students (Honours, Masters, Ph.D) and postdoctoral candidates. Our work is partly supported by [Queensland Digital Health Center](https://chsr.centre.uq.edu.au/research/queensland-digital-health-centre), the [Queensland Decarbonization Alliance](https://www.qubic.au/queensland-quantum-decarbonisation-alliance/) and [NCMAS](https://my.nci.org.au/mancini/ncmas/2026/).
 
 <figure>
   <img src="https://raw.githubusercontent.com/QATheoryGroup/qcat/main/images/logos/UQ-300x300.png" style="width: 130px">
