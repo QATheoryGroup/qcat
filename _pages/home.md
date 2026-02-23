@@ -1,8 +1,14 @@
----
+<img width="936" height="526" alt="Physics building_cropped wider" src="https://github.com/user-attachments/assets/bcbd480e-0be4-4716-8645-4b7da33e748d" />---
 layout: page
 title: Quantum Computing Applications & Theory
 permalink: /
-# gallery: [ /images/logos/UQ-300x300.png, /images/logos/UQ-300x300.png ]
+carousel:
+- 1.PNG
+- 2.PNG
+- 3.jpeg
+- 4.jpeg
+- 5.jpg
+
 ---
 
 We are a theoretical quantum computing research group at the University of Queensland in Brisbane, Australia. 
