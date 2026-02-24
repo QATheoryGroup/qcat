@@ -12,19 +12,16 @@
   status: "current"
 
 - name: "Connor van Rossum"
-  photo: "/images/team/connor.jpg"
   title: "Ph.D Candidate"
   description: "Investigates quantum algorithms for molecular simulation."
   status: "current"
 
 - name: "Jovana Gojkovic"
-  photo: "/images/team/jovana.jpg"
   title: "Honours Graduate"
   description: "Investigated optimization of variation algorithms using direct search."
   status: "alumni"
 
 - name: "Atticus Johnson"
-  photo: "/images/team/atticus.jpg"
   title: "Capstone Research"
   description: "Investigated singular value spectrum of surface codes."
   status: "alumni"
