@@ -19,7 +19,7 @@
 - name: "Jovana Gojkovic"
   photo: "/images/team/jovana.jpeg"
   title: "Honours Graduate"
-  description: "Investigated optimization of variation algorithms using direct search."
+  description: "Investigated optimization of variational algorithms using direct search."
   status: "alumni"
 
 - name: "Atticus Johnson"
