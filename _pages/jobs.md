@@ -5,7 +5,7 @@ sitemap: false
 permalink: /jobs/
 ---
 
-## Current Job Opportunities
+## Open Job Opportunities
 
 Please email **qatheorygroup@gmail.com** for any enquiries about the upcoming roles below. We will post the UQ's Job Application Links for all of the roles here as soon as these links become available. Our group works in a vibrant research environment as part of the Queensland Digital Health Center, ARC Centre of Excellence for Quantum Biotechnology, the Queensland Decarbonization Alliance, and the IBM-affiliated quantum working group for Healthcare and Lifesciences (HCLS). Superviory teams for any position will adjusted to suit the candidate and the technical project, but the primary supervisors are listed below.
 
@@ -20,7 +20,7 @@ The Ph.D project will focus on quantum algorithms development in the nascent fau
 
 We welcome all international or domestic students with a strong track record in Physics, Mathematics, Chemistry, or Computer Science. Undergraduate coursework with quantum information and/or mathematics background courses strongly desired. Note that a hiring link for this Ph.D position will be made available shortly and does not require candidates to apply via the UQ Graduate School. 
 
-## Current Ph.D Top Up Scholarship Opportunities (via UQ Graduate School)
+## Available Ph.D Top Up Scholarships (via UQ Graduate School)
 
 We welcome domestic students or international students who have applied, or are thinking of applying, with the UQ Graduate Office to discuss their application with us and apply for our group's top up scholarships. Note that the candidate must apply via the UQ Graduate office.
 
