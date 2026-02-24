@@ -22,7 +22,7 @@ We aim to bridge the gap between fundamental quantum theory and practical quantu
 <div class="col-sm-6 clearfix">
  <div class="well">
   <pubtit>{{ publi.title }}</pubtit>
-  <img src="https://raw.githubusercontent.com/QATheoryGroup/qcat/main/{{ publi.image }}" class="img-responsive" width="33%" style="float: left" />
+  <img src="https://raw.githubusercontent.com/QATheoryGroup/qcat/main/{{ publi.image }}" class="img-responsive" width="50%" style="float: left" />
   <p>{{ publi.description }}</p>
   <p><em>{{ publi.authors }}</em></p>
   <p><strong><a href="{{ publi.link.url }}">{{ publi.link.display }}</a></strong></p>
