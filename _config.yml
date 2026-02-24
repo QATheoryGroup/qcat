@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: QCAT
+title: 
 email: riddhi.gupta@uq.edu.au
 description: Our research group is jointly hosted by the School of Electrical Engineering and Computer Science and the School of Mathematics and Physics at the University of Queensland.
 baseurl: "/qcat" # the subpath of your site, e.g. /blog
