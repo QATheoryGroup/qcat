@@ -2,13 +2,13 @@
 - name: "Dr. Riddhi Gupta"
   photo: "/images/team/riddhi.jpeg"
   title: "Senior Lecturer, Group Leader"
-  description: "Leads the QCAT group at UQ."
+  description: "Leads the QCAT group at UQ. Investigates noise robustness of nascent fault-tolerant quantum technologies."
   status: "current"
 
 - name: "A. Prof. Sally Shrapnel"
   photo: "/images/team/sally.jpeg"
   title: "Associate Professor, Group Leader"
-  description: "Coleads QCAT, quantum foundations and AI + medical research at UQ."
+  description: "Coleads QCAT and medical AI at UQ. Investigates the fundamental principles that underpin quantum technologies."
   status: "current"
 
 - name: "Connor van Rossum"
