@@ -1,0 +1,24 @@
+# _data/people.yml
+- name: "Dr. Riddhi Gupta"
+  photo: "/images/team/riddhi.jpg"
+  title: "Senior Lecturer, Group Lead"
+  description: "Leads the Quantum Applications and Theory group at UQ."
+  status: "current"
+
+- name: "Associate Prof. Sally Shrapnel"
+  photo: "/images/team/sally.jpg"
+  title: "Group Leader"
+  description: "Leads the Quantum Applications and Theory group at UQ."
+  status: "current"
+
+- name: "Connor van Rossum"
+  photo: "/images/team/connor.jpg"
+  title: "Ph.D Candidate"
+  description: "Investigates quantum algorithms for molecular simulation."
+  status: "current"
+
+- name: "Jovana Gojkovic"
+  photo: "/images/team/connor.jpg"
+  title: "Honours Graduate"
+  description: "Investigated optimization of variation algorithms using direct search."
+  status: "alumni"
