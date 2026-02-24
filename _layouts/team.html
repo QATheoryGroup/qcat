@@ -20,7 +20,6 @@ layout: default
           {% if person.photo %}
             <img src="{{ person.photo | relative_url }}" alt="{{ person.name }}" class="member-photo" />
           {% endif %}
-          <h3 class="member-name">{{ person.name }}</h3>
           {% if person.title %}
             <p class="member-title">{{ person.title }}</p>
           {% endif %}
