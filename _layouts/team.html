@@ -18,7 +18,7 @@ layout: default
       {% for person in current_members %}
         <div class="team-member">
           {% if person.photo %}
-            <img src="{{ person.photo | relative_url }}" alt="{{person.status}}" class="member-photo" />
+            <img src="{{ person.photo | relative_url }}" alt="{{ person.name }}" class="member-photo" />
           {% endif %}
           <h3 class="member-name">{{ person.name }}</h3>
           {% if person.title %}
@@ -40,7 +40,7 @@ layout: default
       {% for person in alumni %}
         <div class="team-member">
           {% if person.photo %}
-            <img src="{{ person.photo | relative_url }}" alt="{{ person.status }}" class="member-photo" />
+            <img src="{{ person.photo | relative_url }}" alt="{{ person.name }}" class="member-photo" />
           {% endif %}
           <h3 class="member-name">{{ person.name }}</h3>
           {% if person.title %}
