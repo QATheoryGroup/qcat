@@ -5,7 +5,7 @@ sitemap: false
 permalink: /research
 ---
 
-We aim to bridge the gap between fundamental quantum theory and practical quantum technologies. Our work explores applications in the nascent fault-tolerant quantum regime, such as quantum simulations for molecular interactions in chemistry; preparing resource states for fault-tolerant quantum computing, and quantum machine learning. Mitigating the impact of noise on quantum computers remains a persistent challenge. To this end, we develop application-specific protocols in quantum noise characterization and control and quantum error mitigation, particularly in regimes where only nascent capaibilities in quantum error correction can be assumed.
+We aim to bridge the gap between fundamental quantum theory and practical quantum technologies. Some of our recent papers appear below.
 
 ## Highlights
 
