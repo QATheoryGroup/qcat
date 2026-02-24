@@ -1,0 +1,68 @@
+---
+layout: default
+---
+
+<article class="team">
+  <header>
+    <h1>{{ page.title }}</h1>
+  </header>
+
+  <section class="team-grid">
+    {% for person in site.data.people %}
+      <div class="team-member">
+        {% if person.photo %}
+          <img src="{{ person.photo | relative_url }}" alt="{{ person.name }}" class="member-photo" />
+        {% endif %}
+        <h2 class="member-name">{{ person.name }}</h2>
+        {% if person.title %}
+          <p class="member-title">{{ person.title }}</p>
+        {% endif %}
+        {% if person.description %}
+          <p class="member-desc">{{ person.description }}</p>
+        {% endif %}
+      </div>
+    {% endfor %}
+  </section>
+</article>
+
+<style>
+.team {
+  text-align: center;
+  margin: 2rem auto;
+  max-width: 900px;
+}
+.team-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 2rem;
+}
+.team-member {
+  width: 220px;
+  padding: 1rem;
+  border: 1px solid #eee;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  background: #fff;
+}
+.member-photo {
+  border-radius: 50%;
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  margin-bottom: 0.75rem;
+}
+.member-name {
+  font-size: 1.2rem;
+  font-weight: 600;
+}
+.member-title {
+  color: #555;
+  font-style: italic;
+  margin-bottom: 0.5rem;
+}
+.member-desc {
+  font-size: 0.95rem;
+  color: #444;
+}
+</style>
