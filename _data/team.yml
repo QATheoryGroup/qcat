@@ -18,7 +18,13 @@
   status: "current"
 
 - name: "Jovana Gojkovic"
-  photo: "/images/team/connor.jpg"
+  photo: "/images/team/jovana.jpg"
   title: "Honours Graduate"
   description: "Investigated optimization of variation algorithms using direct search."
+  status: "alumni"
+
+- name: "Atticus Johnson"
+  photo: "/images/team/jovana.jpg"
+  title: "Honours Graduate"
+  description: "Investigated singular value spectrum of surface codes."
   status: "alumni"
