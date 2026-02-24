@@ -1,13 +1,13 @@
 # _data/people.yml
 - name: "Dr. Riddhi Gupta"
   photo: "/images/team/riddhi.jpeg"
-  title: "Senior Lecturer, Group Lead"
+  title: "Senior Lecturer, Group Leader"
   description: "Leads the QCAT group at UQ."
   status: "current"
 
-- name: "Associate Prof. Sally Shrapnel"
+- name: "A. Prof. Sally Shrapnel"
   photo: "/images/team/sally.jpeg"
-  title: "Group Leader"
+  title: "Associate Professor, Group Leader"
   description: "Coleads QCAT, quantum foundations and AI + medical research at UQ."
   status: "current"
 
