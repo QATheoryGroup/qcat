@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Quantum Computing Applications & Theory
+title: QCAT Group
 sitemap: false
 permalink: /
 carousel_images:
@@ -11,6 +11,8 @@ carousel_images:
   - images/carousel/5.svg
 ---
 {::options syntax_highlighter="nil" /}
+
+# Quantum Computing Applications & Theory Group 
 
 We are a theoretical quantum computing research group at the University of Queensland in Brisbane, Australia. 
 
