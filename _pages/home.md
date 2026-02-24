@@ -24,7 +24,7 @@ Mitigating the impact of noise on quantum computers remains a persistent challen
 
 Our team works closely with industry partners to develop application-specific protocols in quantum noise characterization and control, quantum error mitigation and quantum error correction. 
 
-We aim to bridge the gap between fundamental quantum theory and practical quantum technologies. Whether you are a student, researcher, or collaborator, we invite you to [explore our work](https://qatheorygroup.github.io/qcat/research) or [talk to us](riddhi.gupta@uq.edu.au).
+We aim to bridge the gap between fundamental quantum theory and practical quantum technologies. Whether you are a student, researcher, or collaborator, we invite you to [explore our work](https://qatheorygroup.github.io/qcat/research) or [talk to us](qatheorygroup@gmail.com).
 
 We are currently hiring at all levels: students (Honours, Masters, Ph.D) and postdoctoral candidates. Our work is partly supported by [Queensland Digital Health Center](https://chsr.centre.uq.edu.au/research/queensland-digital-health-centre), the [Queensland Decarbonization Alliance](https://www.qubic.au/queensland-quantum-decarbonisation-alliance/) and [NCMAS](https://my.nci.org.au/mancini/ncmas/2026/).
 
