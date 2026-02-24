@@ -14,7 +14,7 @@ We will post the UQ's Job Application Links for all of the roles here as soon as
 Superviory teams for any position will adjusted to suit the candidate and the technical project, but the primary supervisors are listed below.
 
 
-#### Level A or B Postdoctoral Research Fellow/Research Fellow (Fixed Term, 30 months) 
+#### Level A or B Postdoctoral Research Fellow/Research Fellow (Fixed Term, 30 months), School of Physics and Mathematics
 
 This is an exciting opportunity for a Postdoctoral Research Fellow/Research Fellow to contribute to a two-year quantum algorithms program, affliated with Queensland Digital Health Center and the Queensland Decarbonization Alliance. The ideal candidate will drive algorithms development in quantum optimization for health and quantum sampling for molecular simulations. 
 
@@ -32,7 +32,7 @@ This Ph.D project will be supervised by Dr. Gupta. We welcome all international 
 Note that a hiring link for this Ph.D position will be made available shortly and does not require candidates to apply via the UQ Graduate School. 
 
 
-## Available Ph.D Top Up Scholarships (via UQ Graduate School)
+# Ph.D Top Up Scholarships (via UQ Graduate School)
 
 We welcome domestic students or international students who have applied, or are thinking of applying, with the UQ Graduate Office to discuss their application with us and apply for our group's top up scholarships. 
 
@@ -41,10 +41,10 @@ Note that the candidate must apply via the UQ Graduate office.
 A strong track record in Physics, Mathematics, Chemistry, or Computer Science, and/or any undergraduate coursework with quantum information and/or mathematics background courses preferable.
 
 
-#### Ph.D Top Up Scholarship, School of Mathematics and Physics, The University of Queensland, Brisbane Australia 
+#### Ph.D Top Up Scholarship, School of Mathematics and Physics
 The Ph.D project will focus on quantum optimization and quantum sampling algorithm for health use-cases. This project is suited to HDR candidates who are able to start no later than mid 2026 and will be jointly supervised by Associate Professor Shrapnel and Dr. Gupta. 
 
 
-#### Ph.D Top Up Scholarship, School of Electrical Engineering and Computer Science, The University of Queensland, Brisbane Australia 
+#### Ph.D Top Up Scholarship, School of Electrical Engineering and Computer Science
 The Ph.D project will focus on quantum algorithms development in the nascent fault-tolerant regime where modest levels of error correction can be assumed. This Ph.D project will be supervised by Dr. Gupta.
  
