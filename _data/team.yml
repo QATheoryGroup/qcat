@@ -13,7 +13,7 @@
 
 - name: "Connor van Rossum"
   title: "Ph.D Candidate"
-  description: "Investigates quantum algorithms for molecular simulation."
+  description: "Investigates noisy quantum algorithms for variational learning and sample-based molecular simulation."
   status: "current"
 
 - name: "Jovana Gojkovic"
