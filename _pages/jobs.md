@@ -31,6 +31,4 @@ The Ph.D project will focus on quantum optimization and quantum sampling algorit
 
 #### Ph.D Top Up Scholarship, School of Electrical Engineering and Computer Science, The University of Queensland, Brisbane Australia 
 The Ph.D project will focus on quantum algorithms development in the nascent fault-tolerant regime where modest levels of error correction can be assumed. Attention to regimes in which noise mitigation technqiues can be combined with error correction will be of significant interest. This Ph.D project will be supervised by Dr. Gupta.
-
-We welcome domestic students or international students who have applied with the UQ graduate office to apply for this top up. A strong track record in Physics, Mathematics, Chemistry, or Computer Science, and/or any undergraduate coursework with quantum information and/or mathematics background courses preferable.
  
