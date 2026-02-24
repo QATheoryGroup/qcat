@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: team
 title: "Team"
 sitemap: false
 permalink: /team
 ---
-Under construction
+
+Meet the members of the Quantum Computing Applications and Theory group at the University of Queensland.
