@@ -7,44 +7,87 @@ layout: default
     <h1>{{ page.title }}</h1>
   </header>
 
-  <section class="team-grid">
-    {% for person in site.data.people %}
-      <div class="team-member">
-        {% if person.photo %}
-          <img src="{{ person.photo | relative_url }}" alt="{{ person.name }}" class="member-photo" />
-        {% endif %}
-        <h2 class="member-name">{{ person.name }}</h2>
-        {% if person.title %}
-          <p class="member-title">{{ person.title }}</p>
-        {% endif %}
-        {% if person.description %}
-          <p class="member-desc">{{ person.description }}</p>
-        {% endif %}
-      </div>
-    {% endfor %}
+  <!-- Current team -->
+  <section class="team-section">
+    <h2>Current Members</h2>
+    <div class="team-grid">
+      {% assign current_members = site.data.people | where: "status", "current" %}
+      {% for person in current_members %}
+        <div class="team-member">
+          {% if person.photo %}
+            <img src="{{ person.photo | relative_url }}" alt="{{ person.name }}" class="member-photo" />
+          {% endif %}
+          <h3 class="member-name">{{ person.name }}</h3>
+          {% if person.title %}
+            <p class="member-title">{{ person.title }}</p>
+          {% endif %}
+          {% if person.description %}
+            <p class="member-desc">{{ person.description }}</p>
+          {% endif %}
+        </div>
+      {% endfor %}
+    </div>
   </section>
+
+  <!-- Alumni -->
+  {% assign alumni = site.data.people | where: "status", "alumni" %}
+  {% if alumni.size > 0 %}
+  <section class="team-section alumni">
+    <h2>Alumni</h2>
+    <div class="team-grid">
+      {% for person in alumni %}
+        <div class="team-member">
+          {% if person.photo %}
+            <img src="{{ person.photo | relative_url }}" alt="{{ person.name }}" class="member-photo" />
+          {% endif %}
+          <h3 class="member-name">{{ person.name }}</h3>
+          {% if person.title %}
+            <p class="member-title">{{ person.title }}</p>
+          {% endif %}
+          {% if person.description %}
+            <p class="member-desc">{{ person.description }}</p>
+          {% endif %}
+        </div>
+      {% endfor %}
+    </div>
+  </section>
+  {% endif %}
 </article>
 
 <style>
 .team {
   text-align: center;
   margin: 2rem auto;
-  max-width: 900px;
+  max-width: 1000px;
 }
+
+.team-section {
+  margin-top: 3rem;
+}
+
+.team-section h2 {
+  margin-bottom: 1.5rem;
+  border-bottom: 2px solid #eee;
+  display: inline-block;
+  padding-bottom: 0.3rem;
+}
+
 .team-grid {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
   gap: 2rem;
 }
+
 .team-member {
   width: 220px;
   padding: 1rem;
   border: 1px solid #eee;
   border-radius: 8px;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
   background: #fff;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
 }
+
 .member-photo {
   border-radius: 50%;
   width: 150px;
@@ -52,17 +95,24 @@ layout: default
   object-fit: cover;
   margin-bottom: 0.75rem;
 }
+
 .member-name {
   font-size: 1.2rem;
   font-weight: 600;
 }
+
 .member-title {
   color: #555;
   font-style: italic;
   margin-bottom: 0.5rem;
 }
+
 .member-desc {
   font-size: 0.95rem;
   color: #444;
+}
+
+.alumni h2 {
+  color: #777;
 }
 </style>
