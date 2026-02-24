@@ -33,8 +33,7 @@
   line-height: $base-line-height * $base-font-size * 2.25;
 
   .nav-trigger {
-      display: flex;
-      flex-direction: row;
+      display: none;
   }
 
   .menu-icon {
