@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Quantum Computing Applications & Theory Group
 sitemap: false
 permalink: /
