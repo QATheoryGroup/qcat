@@ -4,8 +4,8 @@ layout: default
 
 <!-- We do NOT wrap another <article> if Minima already does it -->
 <div class="team">
-  {% assign current_members = site.data.people | where: "status", "current" %}
-  {% assign alumni = site.data.people | where: "status", "alumni" %}
+  {% assign current_members = site.data.team | where: "status", "current" %}
+  {% assign alumni = site.data.team | where: "status", "alumni" %}
 
   <header class="team-header">
     <h1>{{ page.title }}</h1>
