@@ -2,16 +2,20 @@
 layout: default
 ---
 
-<article class="team">
-  <header>
+<!-- We do NOT wrap another <article> if Minima already does it -->
+<div class="team">
+  {% assign current_members = site.data.people | where: "status", "current" %}
+  {% assign alumni = site.data.people | where: "status", "alumni" %}
+
+  <header class="team-header">
     <h1>{{ page.title }}</h1>
+    {{ content }}
   </header>
 
-  <!-- Current team -->
+  {% if current_members.size > 0 %}
   <section class="team-section">
     <h2>Current Members</h2>
     <div class="team-grid">
-      {% assign current_members = site.data.team | where: "status", "current" %}
       {% for person in current_members %}
         <div class="team-member">
           {% if person.photo %}
@@ -28,9 +32,8 @@ layout: default
       {% endfor %}
     </div>
   </section>
+  {% endif %}
 
-  <!-- Alumni -->
-  {% assign alumni = site.data.team | where: "status", "alumni" %}
   {% if alumni.size > 0 %}
   <section class="team-section alumni">
     <h2>Alumni</h2>
@@ -52,67 +55,14 @@ layout: default
     </div>
   </section>
   {% endif %}
-</article>
+</div>
 
 <style>
-.team {
-  text-align: center;
-  margin: 2rem auto;
-  max-width: 1000px;
-}
-
-.team-section {
-  margin-top: 3rem;
-}
-
-.team-section h2 {
-  margin-bottom: 1.5rem;
-  border-bottom: 2px solid #eee;
-  display: inline-block;
-  padding-bottom: 0.3rem;
-}
-
-.team-grid {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  gap: 2rem;
-}
-
-.team-member {
-  width: 220px;
-  padding: 1rem;
-  border: 1px solid #eee;
-  border-radius: 8px;
-  background: #fff;
-  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
-}
-
-.member-photo {
-  border-radius: 50%;
-  width: 150px;
-  height: 150px;
-  object-fit: cover;
-  margin-bottom: 0.75rem;
-}
-
-.member-name {
-  font-size: 1.2rem;
-  font-weight: 600;
-}
-
-.member-title {
-  color: #555;
-  font-style: italic;
-  margin-bottom: 0.5rem;
-}
-
-.member-desc {
-  font-size: 0.95rem;
-  color: #444;
-}
-
-.alumni h2 {
-  color: #777;
-}
+.team { text-align: center; margin: 2rem auto; max-width: 1000px; }
+.team-grid { display: flex; flex-wrap: wrap; justify-content: center; gap: 2rem; }
+.team-member { width: 220px; padding: 1rem; border: 1px solid #eee; border-radius: 8px; background: #fff; }
+.member-photo { border-radius: 50%; width: 150px; height: 150px; object-fit: cover; margin-bottom: 0.75rem; }
+.member-name { font-size: 1.2rem; font-weight: 600; }
+.member-title { color: #555; font-style: italic; margin-bottom: 0.5rem; }
+.member-desc { font-size: 0.95rem; color: #444; }
 </style>
