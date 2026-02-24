@@ -1,14 +1,14 @@
 # _data/people.yml
 - name: "Dr. Riddhi Gupta"
-  photo: "/images/team/riddhi.jpg"
+  photo: "/images/team/riddhi.jpeg"
   title: "Senior Lecturer, Group Lead"
-  description: "Leads the Quantum Applications and Theory group at UQ."
+  description: "Leads the QCAT group at UQ."
   status: "current"
 
 - name: "Associate Prof. Sally Shrapnel"
   photo: "/images/team/sally.jpg"
   title: "Group Leader"
-  description: "Leads the Quantum Applications and Theory group at UQ."
+  description: "Coleads QCAT, quantum foundations and AI + medical research at UQ."
   status: "current"
 
 - name: "Connor van Rossum"
