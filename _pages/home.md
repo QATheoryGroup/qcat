@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Quantum Computing Applications & Theory Group
+title: QCAT Group
 sitemap: false
 permalink: /
 carousel_images:
