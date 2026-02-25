@@ -17,6 +17,12 @@
   description: "Investigates noisy quantum algorithms for variational learning and sample-based molecular simulation."
   status: "current"
 
+- name: "Saurabh Jain"
+  photo: "/images/team/saurabh.jpg"
+  title: "Ph.D Candidate"
+  description: "Investigates quantum algorithms for multi-objective optimization tasks."
+  status: "current"
+
 - name: "Moji Ghadimi"
   title: "Head of Applied AI & Quantum Algorithms (QCIF)"
   description: "Leads advanced artificial intelligence, high-performance computing, and emerging quantum technologies at the Queensland Cyber Infrastructure Foundation"
