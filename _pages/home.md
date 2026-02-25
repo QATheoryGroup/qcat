@@ -30,7 +30,7 @@ Our team works closely with industry partners to develop application-specific pr
 
 We aim to bridge the gap between fundamental quantum theory and practical quantum technologies. 
 
-Whether you are a student, researcher, or collaborator, we invite you to [explore our work](https://qatheorygroup.github.io/qcat/research) or [talk to us](mailto:qatheorygroup@gmail.com).
+Whether you are a student, researcher, or collaborator, we invite you to [explore our work](https://qatheorygroup.github.io/qcat/research), [meet our team](https://qatheorygroup.github.io/qcat/team) or [talk to us](mailto:qatheorygroup@gmail.com).
 
 We are currently hiring at all levels: students (Honours, Masters, Ph.D) and postdoctoral candidates. 
 <div class="bootstrap-scope">
