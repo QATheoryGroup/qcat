@@ -46,3 +46,6 @@ We aim to bridge the gap between fundamental quantum theory and practical quantu
 {% endif %}
 
 <p> &nbsp; </p>
+
+
+A complete list of publications can be found on arXiv or via UQ Expert page profiles while auto-population on this page is under construction.
