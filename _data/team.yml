@@ -17,6 +17,11 @@
   description: "Investigates noisy quantum algorithms for variational learning and sample-based molecular simulation."
   status: "current"
 
+- name: "Moji Ghadimi"
+  title: "Head of Applied AI & Quantum Algorithms at QCIF"
+  description: "Leads advanced artificial intelligence, machine learning, high-performance computing, and emerging quantum technologies at the Queensland Cyber Infrastructure Foundation (QCIF)"
+  status: "alumni"
+  
 - name: "Jovana Gojkovic"
   photo: "/images/team/jovana.jpeg"
   title: "Honours Graduate"
