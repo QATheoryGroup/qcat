@@ -34,6 +34,12 @@
   description: "Investigated optimization of variational algorithms using direct search."
   status: "alumni"
 
+- name: "Rishi Goel"
+  photo: "/images/team/rishi.jpeg"
+  title: "Honours Graduate and Capstone Research"
+  description: "Investigated quantum machine learning techniques for causal machine learning and continuous variable kernel methods. Currently studying MASt physics at Cambridge. Contact: rishigoel25@gmail.com"
+  status: "alumni"
+
 - name: "Atticus Johnson"
   title: "Capstone Research"
   description: "Investigated singular value spectrum of surface codes."
