@@ -19,12 +19,39 @@
 - title: "A systematic review of quantum machine learning for digital health"
   image: images/papers/2025_Gupta_Digital.png
   description: We conduct a systematic review to assess whether quantum machine learning (QML) algorithms outperform existing classical methods for clinical decisioning or health service delivery.
-  authors:     Riddhi S. Gupta, Carolyn E. Wood, Teyl Engstrom, Jason D. Pole & Sally Shrapnel 
+  authors: Riddhi S. Gupta, Carolyn E. Wood, Teyl Engstrom, Jason D. Pole & Sally Shrapnel 
   link:
     url: https://www.nature.com/articles/s41746-025-01597-z
     display: npj Digital Medicine (2025)
   highlight: 1
 
+- title: "Quantum algorithms for causal estimands"
+  image: 
+  description:  We consider a recently developed family of non-parametric, continuous causal estimators and derive quantum algorithms for these tasks.
+  authors: Rishi Goel, Casey R Myers and Sally Shrapnel
+  link:
+    url: https://iopscience.iop.org/article/10.1088/2058-9565/ae20b8
+    display: Quantum Sci. Technol. 11 015024 (2025)
+  highlight: 1
+
+- title: "A de Finetti theorem for quantum causal structures"
+  image: 
+  description: We extend de Finetti theorems for a mixture of states/channels to processes with arbitrary causal structure, including indefinite causal order and multi-time, non-Markovian processes applicable to noisy quantum devices. 
+  authors:  Fabio Costa, Jonathan Barrett, and Sally Shrapnel
+  link:
+    url: https://doi.org/10.22331/q-2025-02-11-1628
+    display: 	Quantum 9, 1628 (2025)
+  highlight: 1
+
+- title: "Quantum kernel machine learning with continuous variables"
+  image: 
+  description: We derive a general closed form solution for all CV quantum kernels and show every such kernel can be expressed as the product of a Gaussian and an algebraic function of the parameters of the feature map. 
+  authors:  Laura J Henderson, Rishi Goel and Sally Shrapnel
+  link:
+    url: https://doi.org/10.22331/q-2024-12-17-1570
+    display: 	Quantum 8, 1570 (2024)
+  highlight: 1
+  
 - title: "Probabilistic error cancellation for dynamic quantum circuits"
   image: images/papers/2024_Gupta_MPEC.png
   description: We extend the application of PEC from unitary-only circuits to dynamic circuits with measurement-based operations, such as mid-circuit measurements and classically-controlled (feedforward) Clifford operations.
