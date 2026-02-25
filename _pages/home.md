@@ -4,11 +4,11 @@ title: QCAT Group
 sitemap: false
 permalink: /
 carousel_images:
-  - images/carousel/8.svg
-  - images/carousel/9.svg
-  - images/carousel/7.svg
+  - images/carousel/8.png
+  - images/carousel/9.png
+  - images/carousel/7.png
   - images/carousel/1.svg
-  - images/carousel/6.svg
+  - images/carousel/6.png
   - images/carousel/5.svg
   - images/carousel/4.svg
   - images/carousel/3.svg
