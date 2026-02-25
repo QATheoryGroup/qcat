@@ -1,5 +1,5 @@
 # _data/people.yml
-- name: "Dr. Riddhi Gupta"
+- name: "Dr. Riddhi S. Gupta"
   photo: "/images/team/riddhi.jpeg"
   title: "Senior Lecturer, Group Leader"
   description: "Leads the QCAT group at UQ. Investigates noise robustness of nascent fault-tolerant quantum technologies."
