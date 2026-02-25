@@ -22,7 +22,7 @@ Led by [Dr. Riddhi Gupta](https://smp.uq.edu.au/profile/16165/riddhi-gupta) and 
 
 {% include carousel.html images=page.carousel_images %}
 
-These potential applications include quantum simulations for molecular interactions in chemistry; preparing resource states for fault-tolerant quantum computing, and quantum machine learning.
+These potential applications include quantum simulations for molecular interactions in chemistry, preparing resource states for fault-tolerant quantum computing, and quantum machine learning.
 
 We also recognise that mitigating the impact of noise on quantum computers remains a persistent challenge. 
 
