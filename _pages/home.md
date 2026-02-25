@@ -9,7 +9,7 @@ carousel_images:
   - images/carousel/7.svg
   - images/carousel/1.svg
   - images/carousel/6.svg
-  - images/carousel/3.svg
+  - images/carousel/5.svg
   - images/carousel/4.svg
   - images/carousel/3.svg
   - images/carousel/2.svg
