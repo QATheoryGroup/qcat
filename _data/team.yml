@@ -12,7 +12,7 @@
   status: "current"
 
 - name: "Connor van Rossum"
-  photo: "/images/team/connor.jpg"
+  photo: "/images/team/connor_c.jpg"
   title: "Ph.D Candidate"
   description: "Investigates noisy quantum algorithms for variational learning and sample-based molecular simulation."
   status: "current"
