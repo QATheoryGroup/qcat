@@ -11,6 +11,12 @@
   description: "Coleads QCAT and medical AI at UQ. Investigates the fundamental principles that underpin quantum technologies."
   status: "current"
 
+- name: "Dr. Carolyn Wood"
+  photo: "/images/team/carolyn.jpeg"
+  title: "Postdoctoral Research Fellow"
+  description: "Investigates phenomena at the overlap between quantum physics, thermodynamics, and relativity, and their applications to mesoscopic physical systems.
+  status: "current"
+  
 - name: "Connor van Rossum"
   photo: "/images/team/connor_c.jpg"
   title: "Ph.D Candidate"
@@ -23,6 +29,12 @@
   description: "Investigates quantum algorithms for multi-objective optimization tasks."
   status: "current"
 
+- name: "Declan J. Maguire"
+  photo: "/images/team/declan.jpeg"
+  title: "MPhil. Candidate"
+  description: "Investigates causality and the foundations of physics from a quantum informatics perspective."
+  status: "current"
+  
 - name: "Moji Ghadimi"
   title: "Head of Applied AI & Quantum Algorithms (QCIF)"
   description: "Leads advanced artificial intelligence, high-performance computing, and emerging quantum technologies at the Queensland Cyber Infrastructure Foundation"
