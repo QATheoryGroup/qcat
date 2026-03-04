@@ -12,7 +12,6 @@
   status: "current"
 
 - name: "Dr. Carolyn Wood"
-  photo: "/images/team/carolyn.jpeg"
   title: "Postdoctoral Research Fellow"
   description: "Investigates phenomena at the overlap between quantum physics, thermodynamics, and relativity, and their applications to mesoscopic physical systems."
   status: "current"
