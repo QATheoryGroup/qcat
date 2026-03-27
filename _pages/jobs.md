@@ -16,7 +16,9 @@ Supervisory teams for any position will adjusted to suit the candidate and the t
 
 #### Level A or B Postdoctoral Research Fellow/Research Fellow (Fixed Term, 30 months), School of Physics and Mathematics
 
-This is an exciting opportunity for a Postdoctoral Research Fellow/Research Fellow to contribute to a two-year quantum algorithms program, affiliated with Queensland Digital Health Center and the Queensland Decarbonization Alliance. The ideal candidate will drive algorithms development in quantum optimization for health and quantum sampling for molecular simulations. 
+*Applications due Monday 13th April 2026.*
+
+This is an exciting opportunity for a [Postdoctoral Research Fellow/Research Fellow](https://uq.wd3.myworkdayjobs.com/en-US/uqcareers/job/St-Lucia-Campus/Postdoctoral-Research-Fellow-Research-Fellow---Quantum-Computing_R-59780-1) to contribute to a two-year quantum algorithms program, affiliated with Queensland Digital Health Center and the Queensland Decarbonization Alliance. The ideal candidate will drive algorithms development in quantum optimization for health and quantum sampling for molecular simulations. 
 
 This role has a strongly preferred immediate start date and will be jointly supervised by Associate Professor Shrapnel and Dr. Gupta. 
 
@@ -24,6 +26,8 @@ We welcome all applicants with completion or near completion of a PhD in Physics
 
 
 #### Full Ph.D Position, School of Electrical Engineering and Computer Science
+
+*Please contact qatheorygroup@gmail.com before November 2026.*
 
 The Ph.D project will focus on quantum algorithms development in the nascent fault-tolerant regime where modest levels of error correction can be assumed. Attention to regimes in which noise mitigation techniques can be combined with error correction will be of significant interest. Use case development will focus on molecular simulations and material science. 
 
@@ -33,6 +37,8 @@ Note that a hiring link for this Ph.D position will be made available shortly an
 
 
 # Ph.D Top Up Scholarships (via UQ Graduate School)
+
+*Please contact qatheorygroup@gmail.com in 2026 for applications in 2027*
 
 We welcome domestic students or international students who have applied, or are thinking of applying, with the UQ Graduate Office to discuss their application with us and apply for our group's top up scholarships. 
 
